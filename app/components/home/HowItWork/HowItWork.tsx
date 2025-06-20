@@ -5,7 +5,8 @@ const HowItWork = () => {
   return (
     <div className='pt-16 pb-16 bg-white dark:bg-gray-900 transition-colors duration-300'>
       <h1 className='text-xl sm:text-3xl text-center font-extrabold text-gray-800 dark:text-white'>
-        🍽 Let's See How it Works
+        🍽 <p>Let&apos;s see how it works</p>
+
       </h1>
       <div className="w-[80%] mx-auto mt-16 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10">
         <div data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-delay="0">

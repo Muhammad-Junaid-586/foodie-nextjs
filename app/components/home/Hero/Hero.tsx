@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import { FaApple, FaGooglePay, FaGooglePlay, FaLocationArrow } from 'react-icons/fa'
+import { FaApple, FaGooglePlay, FaLocationArrow } from 'react-icons/fa'
 import { GrMapLocation } from 'react-icons/gr'
 
 const Hero = () => {
